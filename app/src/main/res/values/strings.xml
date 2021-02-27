@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicInPic</string>
+    <string name="info_text">Information</string>
+    <string name="settings_text">Settings</string>
+    <string name="explain">This app helps people who are struggling to remember things that they want to find. It will help people to remember exactly where the things are! Hope you are satisfied with it.</string>
+    <string name="Copyright">Developed by ⓒZynastor, 2021</string>
+</resources>

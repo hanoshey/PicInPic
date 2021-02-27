@@ -1,0 +1,5 @@
+include ':lvl_library'
+include ':app'
+rootProject.name = "PicInPic"
+include ':library'
+include ':lvl_library'
